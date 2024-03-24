@@ -1,2 +1,2 @@
 # novel-website
-This is a novel website I have created from basic based on my interest in reading novels as a fellow reader and also as my first project experience from scratch.
+This is a novel website I have created to upload the novel I am writing and also as my first project experience from scratch.
